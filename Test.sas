@@ -1,8 +1,7 @@
 /* Test */
 /*****************************************************************************/
-/*  Create a default CAS session and create SAS librefs for existing caslibs */
-/*  so that they are visible in the SAS Studio Libraries tree.               */
-/*****************************************************************************/
-
 cas; 
 caslib _all_ assign;
+
+
+/* New */
